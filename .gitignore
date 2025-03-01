@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+/.vs/rc-github-hosted-app/FileContentIndex/4951a7e7-5b10-4a04-b649-6cbd4d4c952a.vsidx
+/.vs/rc-github-hosted-app/FileContentIndex/b70cca6d-7ea2-4963-96b4-4682000da586.vsidx
